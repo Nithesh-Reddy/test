@@ -1,1 +1,3 @@
-testbranch2 file
+tesbanch2 file
+
+this should have a conflict since I am modifying it. 
